@@ -1,0 +1,8 @@
+DELIVERABLE 2 EXPLANATIONS:
+1. The command "git show 681fa83" displays the metadata and detailed line changes for the commit where Cairo was appended to the Africa travel wishlist file.
+2. The command "git show a125d42" shows the root commit tracking the initial addition of all foundational documentation markdown files.
+
+DELIVERABLE 5 REFLECTIION:
+In Git, HEAD is a pointer that acts like "you are here" marker, usually pointing directly to the latest commit on your current active branch.
+A detached HEAD state occurs when you check out a specific historical commit hash directly instead of a local branch name.
+In this state, HEAD points directly to a specific commit in the past,allowing you to inspect old files without affecting your main development timeline.

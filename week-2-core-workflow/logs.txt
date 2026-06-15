@@ -1,0 +1,2 @@
+Project Workspace Branch Reflection:
+This repository tracks travel logs across different regions. Working on isolated feature branches allows development to happen seamlessly without messing up the main production branch code.
