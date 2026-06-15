@@ -1,8 +1,7 @@
-# Git Capstone Foundation Project
+# Codetopia Mentorship Program Portfolio
+This repository contains my complete progress across all training phases.
 
-Welcome to my Git Capstone Project repository. This workspace contains my documented progress, answers, and configurations completed during the Week 1 foundations course.
-
-## Project Framework
-* week-1-foundation/: Holds all session notes, configuration logs, basic commands, and state definitions.
-* capstone/: Contains overall reflections on version control workflows.
-Synchronization status: Successfully
+## Repository Structure
+* Week 1 Foundation: Core terminal setup and basic version control.
+* Week 2 Core Workflow: Managing staging, commits, and logs.
+* Week 3 Remote Repositories: SSH authentication, pushing, and pulling changes.
